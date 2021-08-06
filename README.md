@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shanthan0
+- 👋 Hi, I’m Shanthan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 📫 Reach me on shanthanreddy2002@gmail.com
