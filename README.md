@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shanthan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python for Data Science
 - 📫 Reach me on shanthanreddy2002@gmail.com
 
 <!---
