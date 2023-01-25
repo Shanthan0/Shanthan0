@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Shanthan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Data Science
-- 📫 Reach me on shanthanreddy2002@gmail.com
 
 <!---
 Shanthan0/Shanthan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
