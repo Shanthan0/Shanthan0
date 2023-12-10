@@ -12,7 +12,7 @@ Hey there! 👋 I'm Sree Shanthan, a proud data engineer navigating the data uni
 
 - 🚀 **ETL Astronaut**: Extracting, Transforming, and Loading data like it's nobody's business. Because who doesn't love a good data rocket launch?
 
-- 🕵️‍♂️ **Data Detective**: Solving mysteries in datasets. If Sherlock Holmes were a coder, he'd probably be a data engineer.
+- 🕵️‍♂️ **Data Detective**: Solving mysteries in datasets. 
 
 ## My Toolbox
 
